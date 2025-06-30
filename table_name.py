@@ -6,7 +6,7 @@ import requests
 # ==================== CONFIGURATION ====================
 BASE_URL = "https://kobos-087f8634.exam.cyberjutsu-lab.tech/"
 USERNAME = "nghiaqt"
-PASSWORD = ""
+PASSWORD = "NghiaHiHi_0123"
 # QUAN TRỌNG: Chọn một chapter_id ít có khả năng hết hàng
 CHAPTER_ID_TO_BORROW = "2" 
 SLEEP_TIME = 5 # Giảm thời gian chờ để tăng tốc độ một chút
