@@ -6,7 +6,7 @@ import requests
 # ==================== CONFIGURATION ====================
 BASE_URL = "https://kobos-087f8634.exam.cyberjutsu-lab.tech/"
 USERNAME = "nghiaqt"
-PASSWORD = "GuiltyCrown_0"
+PASSWORD = "NghiaNgu_0123"
 CHAPTER_ID_TO_BORROW = "2"
 SLEEP_TIME = 5
 TARGET_TABLE = "secretflag"
